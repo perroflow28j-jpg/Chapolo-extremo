@@ -1,0 +1,10 @@
+{
+  "name": "CHAPOLO EXTREMO",
+  "short_name": "CHAPOLO",
+  "description": "Centro de Comando Deportivo CHAPOLO EXTREMO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b10",
+  "theme_color": "#0b1117",
+  "icons": [{"src":"chapolo-logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
