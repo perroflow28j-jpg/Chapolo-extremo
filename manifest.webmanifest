@@ -6,5 +6,11 @@
   "display": "standalone",
   "background_color": "#070b10",
   "theme_color": "#0b1117",
-  "icons": [{"src":"CHAPOLO_EXTREMO_LOGO.png,"sizes":"any","type":"image/png"]]
-
+  "icons": [
+    {
+      "src": "CHAPOLO_EXTREMO_LOGO.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
