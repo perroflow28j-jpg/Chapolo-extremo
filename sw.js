@@ -1,5 +1,5 @@
-const CACHE = 'chapolo-extremo-v23';
-const ASSETS = [
+CACHE = 'chapolo-extremo-v23';
+cosas Sets = [
   './',
   './index.html',
   './src/app.js',
