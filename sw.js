@@ -1,11 +1,12 @@
-CACHE = 'chapolo-extremo-v23';
-cosas Sets = [
+
+const CACHE = 'chapolo-extremo-v24';
+const ASSETS = [
   './',
   './index.html',
-  './src/app.js',
-  './src/styles.css',
+  './app.js',
+  './styles.css',
   './manifest.webmanifest',
-  './chapolo-logo.svg'
+  './CHAPOLO_EXTREMO_LOGO.png'
 ];
 
 self.addEventListener('install', e => {
